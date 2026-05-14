@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PGPASSWORD=extramild20 psql *)",
+      "Bash(psql *)",
+      "Bash(PGPASSWORD=extramild20 pg_dump *)",
+      "Bash(pg_dump *)"
+    ]
+  }
+}
